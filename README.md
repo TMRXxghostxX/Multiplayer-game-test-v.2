@@ -1,1 +1,2 @@
-# Multiplayer-game-test-v.2
+# MovimientoSincronoDelaPelota
+Movimiento de la pelota de forma síncrona
